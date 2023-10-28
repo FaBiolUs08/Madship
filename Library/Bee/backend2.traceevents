@@ -1,0 +1,282 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1687302989198463, "dur":97, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989198615, "dur":19821, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989218443, "dur":54, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989218520, "dur":810, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989219975, "dur":178, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1687302989220422, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1687302989220492, "dur":394, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1687302989220933, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1687302989221710, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1687302989219374, "dur":5956, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989225332, "dur":255621, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989480954, "dur":372, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989481516, "dur":1754, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1687302989219253, "dur":6089, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687302989225344, "dur":6134, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687302989233757, "dur":1213, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1687302989234975, "dur":647, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1687302989235634, "dur":460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1687302989236096, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1687302989236514, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989236629, "dur":223, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989236854, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989237200, "dur":410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989237612, "dur":665, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989238279, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989238409, "dur":532, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\fabio\\Desktop\\ITS TORINO\\Esercizi Unity 3D\\MadShip_22_PORELLO_FABIO\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1687302989239018, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerc6ae125b-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1687302989234973, "dur":4343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1687302989239721, "dur":66, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1687302989240303, "dur":234885, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1687302989479301, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1687302989479301, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1687302989479472, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1687302989219669, "dur":6124, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687302989225793, "dur":5888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687302989231682, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1687302989237801, "dur":3777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1687302989241645, "dur":416, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1687302989242253, "dur":3844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1687302989246165, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1687302989246165, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO.exe" }}
+,{ "pid":12345, "tid":2, "ts":1687302989246242, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO.exe" }}
+,{ "pid":12345, "tid":2, "ts":1687302989249350, "dur":10888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989260327, "dur":9186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989269579, "dur":6642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989276285, "dur":7134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989283499, "dur":6007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989289618, "dur":6035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989295733, "dur":7560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989303352, "dur":9786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989313224, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989315374, "dur":6042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989321504, "dur":6455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989328033, "dur":6723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1687302989334832, "dur":6657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1687302989341633, "dur":4799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1687302989354513, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1687302989346554, "dur":8080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1687302989354749, "dur":126290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687302989219305, "dur":6074, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687302989225384, "dur":1583, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687302989226967, "dur":4945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1687302989231915, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1687302989255846, "dur":18738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1687302989274647, "dur":7448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989282249, "dur":7633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989289958, "dur":5388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989295636, "dur":8030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989303748, "dur":8608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989312540, "dur":4681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989317352, "dur":5372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989322818, "dur":7139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989330052, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1687302989334210, "dur":35790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1687302989370118, "dur":110944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687302989219336, "dur":6053, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687302989225589, "dur":1251, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989225392, "dur":2069, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687302989227461, "dur":4346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687302989231818, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1687302989231810, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1687302989232246, "dur":50, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1687302989252015, "dur":22519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1687302989274605, "dur":4017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989278712, "dur":4566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989283363, "dur":7037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989290527, "dur":28566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989319192, "dur":8224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989327502, "dur":5989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989333556, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989333553, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989333697, "dur":49797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1687302989383542, "dur":97413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687302989219372, "dur":6195, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687302989225570, "dur":1202, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687302989226772, "dur":5373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1687302989232146, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1687302989243265, "dur":9045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1687302989252407, "dur":11102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687302989263627, "dur":6856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687302989270575, "dur":33529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687302989304193, "dur":44747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1687302989349103, "dur":7537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1687302989356773, "dur":124205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687302989219405, "dur":6203, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687302989225611, "dur":1239, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687302989226851, "dur":5245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687302989232097, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1687302989243834, "dur":4669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1687302989248595, "dur":17200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989265876, "dur":7104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989273079, "dur":6542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989279718, "dur":10521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989290325, "dur":8772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989299187, "dur":7497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989306808, "dur":7254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989323833, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1687302989314171, "dur":9772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989324022, "dur":20143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1687302989346788, "dur":7203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1687302989354067, "dur":126978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989219442, "dur":6193, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989225637, "dur":1287, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989226924, "dur":5011, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989231948, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1687302989231938, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1687302989242260, "dur":3457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1687302989245771, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989245769, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989246444, "dur":22634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989269203, "dur":14566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989325178, "dur":172, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989283866, "dur":41496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989356330, "dur":266, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1687302989325449, "dur":31163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1687302989356723, "dur":124261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989219473, "dur":6174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989225702, "dur":1168, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687302989225650, "dur":2021, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989227672, "dur":4127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989231803, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1687302989254695, "dur":10555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1687302989265376, "dur":203, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989265582, "dur":37509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687302989303185, "dur":10291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687302989313550, "dur":6072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687302989355651, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1687302989319699, "dur":36162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1687302989355982, "dur":125035, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989219504, "dur":6221, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989225727, "dur":788, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989226515, "dur":4966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989231500, "dur":486, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989242191, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1687302989245575, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989245572, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989246009, "dur":7243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989253333, "dur":16634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989270031, "dur":38446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989308842, "dur":160, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1687302989309004, "dur":41423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1687302989350555, "dur":130391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687302989219541, "dur":6209, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687302989225750, "dur":6003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1687302989231754, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1687302989254962, "dur":23062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1687302989278129, "dur":7578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687302989285789, "dur":7562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687302989293428, "dur":7909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687302989301532, "dur":28757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687302989330376, "dur":15483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1687302989346055, "dur":5767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1687302989351940, "dur":129111, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687302989219578, "dur":6183, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687302989225762, "dur":5990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687302989231762, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1687302989231752, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1687302989232213, "dur":80, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687302989251074, "dur":28042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1687302989279273, "dur":6858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687302989286254, "dur":7762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687302989294098, "dur":5458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687302989317848, "dur":205, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1687302989299710, "dur":18355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687302989318208, "dur":35843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1687302989354177, "dur":126817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687302989219621, "dur":6150, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687302989225771, "dur":5937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1687302989231710, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1687302989238993, "dur":3086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1687302989242178, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1687302989242438, "dur":5121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1687302989247742, "dur":9483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989257299, "dur":8354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989265734, "dur":6382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989272214, "dur":6195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989278502, "dur":8217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989286810, "dur":6827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989293737, "dur":7886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989301706, "dur":6775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989308563, "dur":18030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989326703, "dur":4933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989331724, "dur":3375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1687302989335196, "dur":9590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1687302989345002, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/level1.resS" }}
+,{ "pid":12345, "tid":12, "ts":1687302989349259, "dur":131692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687302989219654, "dur":6129, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687302989225784, "dur":5920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687302989231716, "dur":440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989231705, "dur":452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989235848, "dur":5788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989241697, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989241695, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989242242, "dur":4078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1687302989246399, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1687302989247876, "dur":8698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1687302989256646, "dur":9040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989265766, "dur":7484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989273322, "dur":6129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989279535, "dur":7698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989287323, "dur":6976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989294384, "dur":6041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989300517, "dur":5425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989306064, "dur":18823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989325035, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1687302989325238, "dur":32198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1687302989357520, "dur":123445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989219276, "dur":6071, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989225366, "dur":847, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989226213, "dur":5269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989231505, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1687302989231490, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1687302989244478, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989235717, "dur":8846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1687302989244648, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1687302989245861, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1687302989248974, "dur":18323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989274880, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989267382, "dur":7586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989275053, "dur":9325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989284469, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989284556, "dur":7528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989292172, "dur":7364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989299661, "dur":8186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989307952, "dur":10362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989356194, "dur":172, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1687302989318652, "dur":37734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1687302989356501, "dur":124504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687302989219703, "dur":6098, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687302989225801, "dur":5750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1687302989231551, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1687302989237243, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1687302989241581, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":15, "ts":1687302989241579, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1687302989243169, "dur":3501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1687302989247485, "dur":18644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687302989266212, "dur":42869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687302989309263, "dur":12443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687302989321816, "dur":6117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687302989328024, "dur":5674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1687302989333764, "dur":7186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":15, "ts":1687302989341349, "dur":4658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1687302989346208, "dur":7257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1687302989353581, "dur":127368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687302989219740, "dur":6067, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687302989225808, "dur":5676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687302989231505, "dur":886, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1687302989231490, "dur":902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles BuildFunzionante/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1687302989256977, "dur":7959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":16, "ts":1687302989265049, "dur":5927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687302989271064, "dur":45931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687302989317084, "dur":6263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687302989323419, "dur":10253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1687302989333745, "dur":4116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":16, "ts":1687302989337969, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1687302989341828, "dur":4046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1687302989350275, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1687302989346001, "dur":4366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"BuildFunzionante/MadShip_22_PORELLO_FABIO_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1687302989350529, "dur":130419, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1687302989485777, "dur":1112, "ph":"X", "name": "ProfilerWriteOutput" }
+,
